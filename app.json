@@ -1,7 +1,7 @@
 {
-  "name": "ALISHA MUSIC",
+  "name": "Broken Mr z MUSIC",
   "description": "ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜsɪᴄ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴏᴘᴇʀ ғᴜɴᴄᴛɪᴏɴs ᴡʀɪᴛᴛᴇɴ ɪɴ ᴘʏᴛʜᴏɴ ᴡɪᴛʜ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴘʏ-ᴛɢᴄᴀʟʟs.",
-  "logo": "https://telegra.ph/file/de138de8fd880becb9cf1.jpg",
+  "logo": "https://telegra.ph/file/6174e90006ee835f1b9d9.jpg",
   "keywords": [
   "python3",
   "telegram"
@@ -35,17 +35,17 @@
     },
     "MUSIC_BOT_NAME": {
       "description": "A name for your Music Bot.",
-      "value": "QueenAlishaRobot",
+      "value": "Broken_mr_z_bot",
       "required": true
     },
     "SUPPORT_CHANNEL": {
       "description": "Support Channel Link if you have any, Leave blank if no support. Your link must start with https://t.me/",
-      "value": "Pubglovers_Shayri_lovers",
+      "value": "iam_your_heart4",
       "required": false
     },
     "SUPPORT_GROUP": {
       "description": "Support Group Link if you have any, Leave blank if no support. Your link must start with https://t.me/",
-      "value": "AlishaSupport",
+      "value": "iam_your_heart4",
       "required": false
     },
     "OWNER_ID": {
