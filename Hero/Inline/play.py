@@ -312,7 +312,7 @@ def secondary_markup(videoid, user_id):
 
         [
 
-            InlineKeyboardButton(text="💜 𝐋𝐮𝐜𝐤𝐲 𝐖𝐨𝐫𝐥𝐝 💜", url=f"https://t.me/terayaarhoomai"),
+            InlineKeyboardButton(text="💜 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐇𝐄𝐑𝐄 💜", url=f"https://t.me/iam_your_heart4"),
 
         ],
 
@@ -338,7 +338,7 @@ def secondary_markup2(videoid, user_id):
 
         [
 
-            InlineKeyboardButton(text="💜 𝐋𝐮𝐜𝐤𝐲 𝐖𝐨𝐫𝐥𝐝 💜⁩", url=f"https://t.me/terayaarhoomai"),
+            InlineKeyboardButton(text="💜 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐇𝐄𝐑𝐄 💜⁩", url=f"https://t.me/iam_your_heart4"),
 
         ],
 
@@ -376,7 +376,7 @@ def primary_markup(videoid, user_id, current_time, total_time):
 
         [
 
-            InlineKeyboardButton(text="💜 𝐋𝐮𝐜𝐤𝐲 𝐖𝐨𝐫𝐥𝐝 💜", url=f"https://t.me/terayaarhoomai"),
+            InlineKeyboardButton(text="💜 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐇𝐄𝐑𝐄 💜", url=f"https://t.me/iam_your_heart4"),
 
         ],
 
@@ -414,7 +414,7 @@ def timer_markup(videoid, user_id, current_time, total_time):
 
         [
 
-            InlineKeyboardButton(text="💜 𝐋𝐮𝐜𝐤𝐲 𝐖𝐨𝐫𝐥𝐝 💜", url=f"https://t.me/terayaarhoomai"),
+            InlineKeyboardButton(text="💜 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐇𝐄𝐑𝐄 💜", url=f"https://t.me/iam_your_heart4"),
 
         ],
 
@@ -458,7 +458,7 @@ def audio_markup(videoid, user_id, current_time, total_time):
 
         [
 
-            InlineKeyboardButton(text="💜 𝐋𝐮𝐜𝐤𝐲 𝐖𝐨𝐫𝐥𝐝 💜", url=f"https://t.me/terayaarhoomai"),
+            InlineKeyboardButton(text="💜 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐇𝐄𝐑𝐄 💜", url=f"https://t.me/iam_your_heart4"),
 
         ],
 
@@ -486,7 +486,7 @@ def audio_timer_markup_start(videoid, user_id, current_time, total_time):
 
         [
 
-            InlineKeyboardButton(text="💜 𝐋𝐮𝐜𝐤𝐲 𝐖𝐨𝐫𝐥𝐝 💜⁩", url=f"https://t.me/terayaarhoomai"),
+            InlineKeyboardButton(text="💜 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐇𝐄𝐑𝐄 💜⁩", url=f"https://t.me/iam_your_heart4"),
 
         ],
 
@@ -502,7 +502,7 @@ audio_markup2 = InlineKeyboardMarkup(
 
         [
 
-            InlineKeyboardButton(text="💜 𝐋𝐮𝐜𝐤𝐲 𝐖𝐨𝐫𝐥𝐝 💜", url=f"https://t.me/terayaarhoomai"),
+            InlineKeyboardButton(text="💜 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐇𝐄𝐑𝐄 💜", url=f"https://t.me/iam_your_heart4"),
 
         ],
 
