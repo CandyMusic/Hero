@@ -30,11 +30,11 @@ __MODULE__ = "ᴇssᴇɴᴛɪᴀʟs"
 __HELP__ = """
 
 
-/start 
+/st!art 
 - Start the Bot.
 
 
-/help 
+/he!lp 
 - Get Commands Helper Menu.
 
 
