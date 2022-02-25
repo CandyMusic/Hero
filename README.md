@@ -2,7 +2,7 @@
     ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜsɪᴄ+ᴠɪᴅᴇᴏ ʙᴏᴛ ᴡʀɪᴛᴛᴇɴ ɪɴ ᴘʏᴛʜᴏɴ ᴜsɪɴɢ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴘʏ-ᴛɢᴄᴀʟʟs 
 </h4>
 <p align="center">
-    <a href="https://t.me/QueenAlishaRobot"> ʀᴇᴀᴅʏ-ᴛᴏ-ᴜsᴇ ʙᴏᴛ </a> •
+    <a href="https://t.me/QueenAlishaRobt"> ʀᴇᴀᴅʏ-ᴛᴏ-ᴜsᴇ ʙᴏᴛ </a> •
     <a href="https://t.me/Pubglovers_Shayri_lovers"> sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ </a> •
     <a href="https://t.me/AlishaSupport"> sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ </a> 
 </p>
