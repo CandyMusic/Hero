@@ -312,7 +312,7 @@ def secondary_markup(videoid, user_id):
 
         [
 
-            InlineKeyboardButton(text="💥 Jøɩɳ Ɦɘɤɘ & Sʋƥƥøɤʈ 💞", url=f"https://t.me/AlishaSupport"),
+            InlineKeyboardButton(text="💜 𝐋𝐔𝐂𝐊𝐘 𝐖𝐎𝐑𝐋𝐃 💜", url=f"https://t.me/terayaarhoomai"),
 
         ],
 
@@ -338,7 +338,7 @@ def secondary_markup2(videoid, user_id):
 
         [
 
-            InlineKeyboardButton(text="💥 Jøɩɳ Ɦɘɤɘ & Sʋƥƥøɤʈ 💞⁩", url=f"https://t.me/AlishaSupport"),
+            InlineKeyboardButton(text="💜 𝐋𝐔𝐂𝐊𝐘 𝐖𝐎𝐑𝐋𝐃 💜", url=f"https://t.me/terayaarhoomai"),
 
         ],
 
@@ -376,7 +376,7 @@ def primary_markup(videoid, user_id, current_time, total_time):
 
         [
 
-            InlineKeyboardButton(text="💥 Jøɩɳ Ɦɘɤɘ & Sʋƥƥøɤʈ 💞", url=f"https://t.me/AlishaSupport"),
+            InlineKeyboardButton(text="💜 𝐋𝐔𝐂𝐊𝐘 𝐖𝐎𝐑𝐋𝐃 💜", url=f"https://t.me/terayaarhoomai"),
 
         ],
 
@@ -414,7 +414,7 @@ def timer_markup(videoid, user_id, current_time, total_time):
 
         [
 
-            InlineKeyboardButton(text="💥 Jøɩɳ Ɦɘɤɘ & Sʋƥƥøɤʈ 💞", url=f"https://t.me/AlishaSupport"),
+            InlineKeyboardButton(text="💜 𝐋𝐔𝐂𝐊𝐘 𝐖𝐎𝐑𝐋𝐃 💜", url=f"https://t.me/terayaarhoomai"),
 
         ],
 
@@ -458,7 +458,7 @@ def audio_markup(videoid, user_id, current_time, total_time):
 
         [
 
-            InlineKeyboardButton(text="💥 Jøɩɳ Ɦɘɤɘ & Sʋƥƥøɤʈ 💞", url=f"https://t.me/AlishaSupport"),
+            InlineKeyboardButton(text="💜 𝐋𝐔𝐂𝐊𝐘 𝐖𝐎𝐑𝐋𝐃 💜", url=f"https://t.me/terayaarhoomai"),
 
         ],
 
@@ -486,7 +486,7 @@ def audio_timer_markup_start(videoid, user_id, current_time, total_time):
 
         [
 
-            InlineKeyboardButton(text="💥 Jøɩɳ Ɦɘɤɘ & Sʋƥƥøɤʈ 💞⁩", url=f"https://t.me/AlishaSupport"),
+            InlineKeyboardButton(text="💜 𝐋𝐔𝐂𝐊𝐘 𝐖𝐎𝐑𝐋𝐃 💜", url=f"https://t.me/terayaarhoomai"),
 
         ],
 
@@ -502,7 +502,7 @@ audio_markup2 = InlineKeyboardMarkup(
 
         [
 
-            InlineKeyboardButton(text="💥 Jøɩɳ Ɦɘɤɘ & Sʋƥƥøɤʈ 💞", url=f"https://t.me/AlishaSupport"),
+            InlineKeyboardButton(text="💜 𝐋𝐔𝐂𝐊𝐘 𝐖𝐎𝐑𝐋𝐃 💜", url=f"https://t.me/terayaarhoomai"),
 
         ],
 
