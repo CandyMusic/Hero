@@ -312,7 +312,8 @@ def secondary_markup(videoid, user_id):
 
         [
 
-            InlineKeyboardButton(text="💥 Jøɩɳ Ɦɘɤɘ & Sʋƥƥøɤʈ 💞", url=f"https://t.me/AlishaSupport"),
+            InlineKeyboardButton(text="📨 Support", url=f"https://t.me/UNIQUE_SOCIETY"),
+            InlineKeyboardButton(text="Updates 📨", url=f"https://t.me/BLAZE_SUPPORT"),
 
         ],
 
@@ -338,7 +339,8 @@ def secondary_markup2(videoid, user_id):
 
         [
 
-            InlineKeyboardButton(text="💥 Jøɩɳ Ɦɘɤɘ & Sʋƥƥøɤʈ 💞⁩", url=f"https://t.me/AlishaSupport"),
+            InlineKeyboardButton(text="📨 Support", url=f"https://t.me/UNIQUE_SOCIETY"),
+            InlineKeyboardButton(text="Updates 📨", url=f"https://t.me/BLAZE_SUPPORT"),
 
         ],
 
