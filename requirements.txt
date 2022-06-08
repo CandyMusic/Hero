@@ -24,3 +24,4 @@ youtube-search-python
 rich
 git+https://github.com/myrepotestv1/asad-ld
 speedtest-cli
+YoutubeDL-cli
