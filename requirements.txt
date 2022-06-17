@@ -56,3 +56,5 @@ pykeyboard
 git+https://github.com/myrepotestv1/abgram
 
 pyrogram==1.4.12
+
+youtube-dl
