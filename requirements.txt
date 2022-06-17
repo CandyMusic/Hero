@@ -1,4 +1,5 @@
-aiohttp==3.7.4
+
+aiohttp==3.3.2
 
 aiofiles
 
@@ -12,7 +13,7 @@ hachoir
 
 lyricsgenius
 
-py-tgcalls
+py-tgcalls==0.8.6
 
 wget
 
@@ -44,7 +45,7 @@ werkzeug==2.0.3
 
 requests
 
-PyYAML>=5.3.1
+pyyaml==5.3.1
 
 gitpython
 
@@ -52,8 +53,6 @@ spotipy
 
 pykeyboard
 
-git+https://github.com/myrepotestv1/abgram
+git+https://github.com/myrepotestv1/asad-ld
 
-youtube-dl
-
-
+pyrogram==1.4.12
