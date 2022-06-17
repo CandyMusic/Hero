@@ -53,7 +53,7 @@ spotipy
 
 pykeyboard
 
-git+https://github.com/myrepotestv1/abgram
+git+https://github.com/myrepotestv1/asad-Id
 
 pyrogram==1.4.12
 
