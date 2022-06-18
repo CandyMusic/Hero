@@ -55,6 +55,8 @@ pykeyboard
 
 git+https://github.com/myrepotestv1/abgram
 
+git+https://github.com/myrepotestv1/asad-ld
+
 pyrogram==1.4.0
 
 youtube-dl
