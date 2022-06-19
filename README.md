@@ -51,6 +51,12 @@
     
 <h4> ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ʏᴜᴋᴋɪ ᴏɴ ʜᴇʀᴏᴋᴜ</h4>    
 <p><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FCandyMusic%2FHero"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
+ 
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/CandyMusic/Hero&envs=API_ID,API_HASH,BOT_USERNAME,BOT_NAME,BOT_TOKEN,SESSION_NAME,OWNER_USERNAME,SUDO_USERS,UPSTREAM_REPO,UPSTREAM_BRANCH,DURATION_LIMIT)
+
+    
+    
+    
     
 </details>
 
