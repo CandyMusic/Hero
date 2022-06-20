@@ -56,6 +56,6 @@ git+https://github.com/myrepotestv1/asad-ld
 
 git+https://github.com/myrepotestv1/abgram
 
-
+speedtest-cli
 
 
