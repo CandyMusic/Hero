@@ -1,5 +1,4 @@
-
-aiohttp==3.3.2
+aiohttp==3.7.4
 
 aiofiles
 
@@ -45,7 +44,7 @@ werkzeug==2.0.3
 
 requests
 
-pyyaml==5.3.1
+pyyaml==5.4
 
 gitpython
 
@@ -53,10 +52,10 @@ spotipy
 
 pykeyboard
 
-git+https://github.com/myrepotestv1/abgram
-
 git+https://github.com/myrepotestv1/asad-ld
 
-pyrogram==1.4.0
+git+https://github.com/myrepotestv1/abgram
 
-youtube-dl
+
+
+
