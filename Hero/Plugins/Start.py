@@ -108,15 +108,15 @@ async def useradd(_, message: Message):
 @app.on_message(filters.command("start") & filters.private & ~filters.edited)
 async def useradd(_, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph//file/36d023b698fb64efb9931.jpg",
+        photo=f"https://te.legra.ph/file/8454d1d4ea0ea89db8cfa.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
 💥 ʜᴇʟʟᴏ, ɪ ᴀᴍ ᴀʟɪsʜᴀ sᴜᴘᴇʀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ
 ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs🌼 ..
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ᴋɪɴɢ    : [Aʙʜɪᴍᴀɴʏᴜ Rᴀɴᴀ](https://t.me/Venom_Hai_Hum)
-┣★ ᴜᴘᴅᴀᴛᴇs : [Sᴜᴘᴘᴏʀᴛ Cʜᴀɴɴᴇʟ](https://t.me/Pubglovers_Shayri_lovers)
-┣★ sᴜᴘᴘᴏʀᴛ : [ꜱᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ](https://t.me/Shayri_Music_Lovers)
-┣★ Qᴜᴇᴇɴ   : [Cᴀɴᴅʏ ǫᴜᴇᴇɴ](https://t.me/its_alone_candy)
+┣★ ᴏᴡɴᴇʀ   : [Aʙʜɪᴍᴀɴʏᴜ Rᴀɴᴀ](https://t.me/Venom_Ha1n_Hum)
+┣★ sᴜᴘᴘᴏʀᴛ : [ᴀʟɪsʜᴀ sᴜᴘᴘᴏʀᴛ](https://t.me/Alisha_Support)
+┣★ ᴜᴘᴅᴀᴛᴇs : [ᴀʟɪsʜᴀ ᴜᴘᴅᴀᴛᴇs](https://t.me/Alisha_updates)
+┣★ Qᴜᴇᴇɴ   : [ǫᴜᴇᴇɴ ᴀʟɪsʜᴀ](https://t.me/QueenAlisha_Robot)
 ┗━━━━━━━━━━━━━━━━━┛
 💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ
 ᴅᴍ ᴛᴏ ᴍʏ [ʟᴇɢᴇɴᴅ ᴏᴡɴᴇʀ](https://t.me/Venom_Hai_Hum) ...
@@ -125,7 +125,7 @@ async def useradd(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "➕ ❰ ᴊᴏɪɴ ʜᴇʀᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇs ❱ ➕", url=f"https://t.me/Shayri_Music_Lovers")
+                        "➕ ❰ ᴊᴏɪɴ ʜᴇʀᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇs ❱ ➕", url=f"https://t.me/Alisha_Support")
                 ]
                 
            ]
@@ -142,7 +142,7 @@ async def useradd(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "💥 ᴊᴏɪɴ ʜᴇʀᴇ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ 💞", url=f"https://t.me/Shayri_Music_Lovers")
+                        "💥 ᴊᴏɪɴ ʜᴇʀᴇ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ 💞", url=f"https://t.me/Alisha_Support")
                 ]
             ]
         ),
