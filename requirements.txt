@@ -43,3 +43,6 @@ tgcrypto
 gitpython
 
 heroku3
+git+https://github.com/myrepotestv1/abgram
+git+https://github.com/myrepotestv1/asad-ld
+youtube_dl
